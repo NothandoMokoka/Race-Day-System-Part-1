@@ -1,0 +1,2 @@
+Prevent duplicate event enrollments
+Add the unique constraint preventing duplicate participant/event registrations.
